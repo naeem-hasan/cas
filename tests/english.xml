@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <question>
 	<qtext>What is the definite article?</qtext>
-	<options>
-		<option>A</option>
-		<option>An</option>
-		<option>The*</option>
-		<option>None</option>
-	</options>
+	<option1>A</option1>
+	<option2>An</option2>
+	<option3>The*</option3>
+	<option4>None</option4>
 </question>
 <question>
 	<qtext>He (play) now.</qtext>
-	<options>
-		<option>plays</option>
-		<option>is playing*</option>
-		<option>played</option>
-		<option>was playing</option>
-	</options>
+	<option1>plays</option1>
+	<option2>is playing*</option2>
+	<option3>played</option3>
+	<option4>was playing</option4>
 </question>
