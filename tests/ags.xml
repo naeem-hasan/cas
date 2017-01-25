@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<question>
+		<qtext>মুক্তিযুদ্ধে 'বীর প্রতীক' খেতাবপ্রাপ্ত মহিলার নাম কি?/qtext>
+		<option1>শেখ হাসিনা</option1>
+		<option2>তারামন বিবি*</option2>
+		<option3>খালেদা জিয়া</option3>
+        <option4>প্রিতীলতা</option4>
+	</question>
+	<question>
+		<qtext>কত সালে স্বৈরাচারী শাসনের পতন ঘটে?</qtext>
+        <option1>১৯৭৫ সাল</option1>
+		<option2>১৯৮০ সাল</option2>
+		<option3>১৯৯০ সাল*</option3>
+		<option4>১৯৯৬ সাল</option4>
+	</question>
+    <question>
+		<qtextসরকার মুক্তিযুদ্ধে দেশকে কয়টি সেক্টরে ভাগ করে?</qtext>
+		<option1>১০ টি</option1>
+		<option2>১১ টি*</option2>
+		<option3>১২ টি</option3>
+		<option4>১৩ টি</option4>
+	</question>
+    <question>
+		<qtext>কোথায় অস্থায়ী সরকার শপথ গ্রহণ করে?</qtext>
+       	<option1>মেহেরপুর*</option1>
+		<option2>নেত্রকোনা</option2>
+		<option3>মানিকগঞ্জ</option3>
+		<option4>কিশোরগঞ্জ</option4>
+	</question>
+    <question>
+		<qtext>মুজিব বাহীনি গঠিত হয় কাদের সহায়তায়?</qtext>
+		<option1>পুলিশ</option1>
+		<option2>বুদ্ধিজীবী</option2>
+		<option3>কৃষক-শ্রমিক*</option3>
+		<option4>ছাত্র</option4>
+	</question>
+</questions>
