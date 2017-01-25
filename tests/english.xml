@@ -14,4 +14,25 @@
 		<option3>played</option3>
 		<option4>was playing</option4>
 	</question>
+	<question>
+		<qtext>Which of the following is synonymous to 'kill'?</qtext>
+		<option1>Dead</option1>
+		<option2>Die</option2>
+		<option3>Damage</option3>
+		<option4>Murder*</option4>
+	</question>
+	<question>
+		<qtext>I enjoyed ________ with you.</qtext>
+		<option1>to travel</option1>
+		<option2>travelling*</option2>
+		<option3>travelled</option3>
+		<option4>travel</option4>
+	</question>
+	<question>
+		<qtext>How many parts of speech are there?</qtext>
+		<option1>Five</option1>
+		<option2>Six</option2>
+		<option3>Seven</option3>
+		<option4>Eight*</option4>
+	</question>
 </questions>
