@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
 	<question>
-		<qtext>মুক্তিযুদ্ধে 'বীর প্রতীক' খেতাবপ্রাপ্ত মহিলার নাম কি?/qtext>
+		<qtext>মুক্তিযুদ্ধে 'বীর প্রতীক' খেতাবপ্রাপ্ত মহিলার নাম কি?</qtext>
 		<option1>শেখ হাসিনা</option1>
 		<option2>তারামন বিবি*</option2>
 		<option3>খালেদা জিয়া</option3>
@@ -15,7 +15,7 @@
 		<option4>১৯৯৬ সাল</option4>
 	</question>
     <question>
-		<qtextসরকার মুক্তিযুদ্ধে দেশকে কয়টি সেক্টরে ভাগ করে?</qtext>
+		<qtext>সরকার মুক্তিযুদ্ধে দেশকে কয়টি সেক্টরে ভাগ করে?</qtext>
 		<option1>১০ টি</option1>
 		<option2>১১ টি*</option2>
 		<option3>১২ টি</option3>
