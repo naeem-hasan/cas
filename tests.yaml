@@ -1,3 +1,5 @@
 pending:
-  -ags.yml
-  -english.yml
+  -english:
+    file: english.yaml
+    teacher: Rukon Uddin
+    subject: English
