@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pending>
 	<test>
-		<name>REFRESH!!</name>
+		<name>CA Sample Test</name>
 		<file>english.xml</file>
 		<teacher>Rukon Uddin</teacher>
 		<subject>English</subject>
 	</test>
 	<test>
-		<name>CA Test #2</name>
-		<file>ags2.xml</file>
+		<name>CA Sample Test #2</name>
+		<file>ags.xml</file>
 		<teacher>Khurshid Alam</teacher>
 		<subject>Agricultural Studies</subject>
 	</test>
