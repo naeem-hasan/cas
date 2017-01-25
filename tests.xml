@@ -6,4 +6,10 @@
 		<teacher>Rukon Uddin</teacher>
 		<subject>English</subject>
 	</test>
+	<test>
+		<name>CA Test #2</name>
+		<file>ags2.xml</file>
+		<teacher>Khurshid Alam</teacher>
+		<subject>Agricultural Studies</subject>
+	</test>
 </pending>
