@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pending>
 	<test>
-		<name>english</name>
-		<question>
-			<qtext>What is the definite article?</qtext>
-			<options>
-				<option>A</option>
-				<option>An</option>
-				<option>The*</option>
-				<option>None</option>
-			</options>
-		</question>
-		<question>
-			<qtext>He (play) now.</qtext>
-			<options>
-				<option>plays</option>
-				<option>is playing*</option>
-				<option>played</option>
-				<option>was playing</option>
-			</options>
-		</question>
+		<file>english.xml</file>
+		<teacher>Rukon Uddin</teacher>
+		<subject>English</subject>
 	</test>
 </pending>
